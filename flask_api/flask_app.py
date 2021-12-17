@@ -54,5 +54,11 @@ def list_models():
     list_of_files = glob.glob(f"{dir_path}/*.joblib")
     return list_of_files
 
+
+@APP.route('/health_check', methods=['GET'])
+def health_check():
+    """Simple health check"""
+    return "Everything is A-Ok!"
+
 if __name__ == "__main__":
     APP.run(port=8000, debug=True)
