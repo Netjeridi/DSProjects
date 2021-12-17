@@ -47,5 +47,12 @@ def run_model():
     return f"You requested a {model_name} model run\n\nPredicted result: {result}\n"
 
 
+@APP.route('/list_models', methods=['GET'])
+def list_models():
+    """Return a list of currently stored model files"""
+    dir_path = os.getcwd()
+    list_of_files = glob.glob(f"{dir_path}/*.joblib")
+    return list_of_files
+
 if __name__ == "__main__":
     APP.run(port=8000, debug=True)

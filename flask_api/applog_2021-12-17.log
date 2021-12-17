@@ -5,3 +5,25 @@
 17-Dec-21 14:42:57 -  * Debugger is active!
 17-Dec-21 14:42:57 -  * Debugger PIN: 228-569-363
 17-Dec-21 14:42:59 - 127.0.0.1 - - [17/Dec/2021 14:42:59] "[37mPOST /run HTTP/1.1[0m" 200 -
+17-Dec-21 15:25:12 -  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit)
+17-Dec-21 15:25:12 -  * Restarting with inotify reloader
+17-Dec-21 15:25:12 -  * Debugger is active!
+17-Dec-21 15:25:12 -  * Debugger PIN: 123-255-964
+17-Dec-21 15:25:35 -  * Detected change in '/home/chris/DSProjects/flask_api/client_example.py', reloading
+17-Dec-21 15:25:35 -  * Detected change in '/home/chris/DSProjects/flask_api/client_example.py', reloading
+17-Dec-21 15:25:36 -  * Restarting with inotify reloader
+17-Dec-21 15:25:36 -  * Debugger is active!
+17-Dec-21 15:25:36 -  * Debugger PIN: 320-339-803
+17-Dec-21 15:25:38 -  * Detected change in '/home/chris/DSProjects/flask_api/flask_app.py', reloading
+17-Dec-21 15:25:39 -  * Restarting with inotify reloader
+17-Dec-21 15:25:40 -  * Debugger is active!
+17-Dec-21 15:25:40 -  * Debugger PIN: 295-449-058
+17-Dec-21 15:25:59 -  * Detected change in '/home/chris/DSProjects/flask_api/flask_app.py', reloading
+17-Dec-21 15:25:59 -  * Detected change in '/home/chris/DSProjects/flask_api/flask_app.py', reloading
+17-Dec-21 15:26:00 -  * Restarting with inotify reloader
+17-Dec-21 15:26:00 -  * Debugger is active!
+17-Dec-21 15:26:00 -  * Debugger PIN: 250-510-779
+17-Dec-21 15:26:01 -  * Detected change in '/home/chris/DSProjects/flask_api/client_example.py', reloading
+17-Dec-21 15:26:02 -  * Restarting with inotify reloader
+17-Dec-21 15:26:02 -  * Debugger is active!
+17-Dec-21 15:26:02 -  * Debugger PIN: 342-186-112

@@ -21,3 +21,8 @@ request_data = json.dumps({'model': 'linear_regression',
                            })
 response = requests.post(url, request_data)
 print(response.text)
+
+url = 'http://Localhost:8000/list_models'
+
+response = requests.get(url)
+print(response.text)
