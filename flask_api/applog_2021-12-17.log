@@ -1,0 +1,7 @@
+17-Dec-21 14:42:35 -  * Debugger is active!
+17-Dec-21 14:42:35 -  * Debugger PIN: 107-265-177
+17-Dec-21 14:42:56 -  * Detected change in '/home/chris/DSProjects/flask_api/flask_app.py', reloading
+17-Dec-21 14:42:56 -  * Detected change in '/home/chris/DSProjects/flask_api/flask_app.py', reloading
+17-Dec-21 14:42:57 -  * Debugger is active!
+17-Dec-21 14:42:57 -  * Debugger PIN: 228-569-363
+17-Dec-21 14:42:59 - 127.0.0.1 - - [17/Dec/2021 14:42:59] "[37mPOST /run HTTP/1.1[0m" 200 -
